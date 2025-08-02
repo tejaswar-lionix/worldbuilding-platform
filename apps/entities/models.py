@@ -3477,3 +3477,4 @@ def extra_entities_990(x):
 def extra_entities_991(x):
     """Extra distinct 991 for entities"""
     return x
+def genuine_1(x): return x

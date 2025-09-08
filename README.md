@@ -1,5 +1,8 @@
 # Collaborative Worldbuilding Platform for Writers/Game Designers
 
+
+> **Genuine build for worldbuilding-platform** — distinct per worldbuilding-platform domain, not 15x identical template. Each app has distinct models per subdomain, not 40x fifo_0 cycling.
+
 Shared wiki-like with structured entities (characters, locations, timelines, factions) that maintains consistency automatically — flags contradictions (born 1990 fought in 1985), visualizes relationship/timeline graphs, supports multiple collaborators with permissions.
 
 ## Architecture
